@@ -11,10 +11,12 @@ These resources are the ideal to brush up on Frontend related topics. Before div
 
 #### JavaScript
 <a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS</a>  
-
-<a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS</a>  
+You Don't Know JS is arguablly the single best resource for really learning JavaScript and how it works under the hood. Of all the resources here we recommemnd .
 
 <a href="http://eloquentjavascript.net/">Eloquent JavaScript</a>  
+
+<a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/">JavaScript Design patterns</a>  
+Even though this book is higher level than the previous two, it's worth reading. After reviewing the previous low level books applying that to design patterns should bring everything together.
 
 #### JavaScript (ES6 focused)
 <a href="https://www.nczonline.net/blog/tag/ecmascript-6/">Ecmascript 6</a>  
@@ -23,8 +25,10 @@ These resources are the ideal to brush up on Frontend related topics. Before div
 
 #### Data Strcutrues
 <a href="https://github.com/thejameskyle/itsy-bitsy-data-structures">Itsy Bitsy Data Structures</a>  
+If you're already very familiar with data structures it's worth skipping this. *Depending on the type of Frontend job you're looking for Itsy Bitsy Data Structures may not be completely relevant -- although, it will strengthen any developers approach to programming.*
 
 # Practice
+This is where it all comes together. Go through as many practice problems as you can. There's no secret to it other than time, effort, and repitition. If you don't know an answer spend extra time understanding it.
 
 #### Practice questions
 <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Frontend Job Interview Questions</a>  
