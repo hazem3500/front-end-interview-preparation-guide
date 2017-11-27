@@ -30,7 +30,7 @@ If you're already very familiar with data structures it's worth skipping this. *
 # Practice
 This is where it all comes together. Go through as many practice problems as you can. There's no secret to it other than time, effort, and repitition. If you don't know an answer spend extra time understanding it.
 
-### Practice questions
+### Practice questions 🔑
 <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Frontend Job Interview Questions</a> and <a href="https://github.com/utatti/Front-end-Developer-Interview-Questions-And-Answers/tree/master/answers">answers</a>  
 
 <a href="https://github.com/khan4019/front-end-Interview-Questions">Frontend Job Interview Questions, including algorithms</a> 
