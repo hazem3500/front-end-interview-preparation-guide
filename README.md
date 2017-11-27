@@ -56,9 +56,9 @@ These questions are meant to reflect real interview questions you would get from
 
 ## Jobeir
 This is a curated list of resources by the team at Jobeir.
-<a href="https://jobeir.com/jobs?q=Frontend%20Developer">Find the best jobs at the best tech companies</a>
+<a href="https://jobeir.com/jobs?q=Frontend%20Developer">Find the best jobs at the best tech companies</a>  
   
-or [![Join the Jobeir community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/jobeir)
+[![Join the Jobeir community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/jobeir)
 
 <hr />
 ### License  
