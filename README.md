@@ -1,14 +1,13 @@
 <img width="100%" src="https://raw.githubusercontent.com/Jobeir/front-end-interview-preparation-guide/master/images/github-repo-hero.png" alt="The Frontend job interview preparation guide"/>
 <br/>
 
-# The Frontend job interview preparation guide
-The goal of this guide is to help you prepare and practice for your next interview. We have curated the list of resources to keep it manageable and 
+The goal of this guide is to help you prepare and practice for your next interview. We have curated this list of resources to keep it manageable and as impactful as possible. The learning resources are mostly focused around JavaScript, but the practice questions cover the entire Frontend spectrum.
 
 - [Learn](#learn)
 - [Practice](#practice)
 
 # Learn
-These resources are the ideal to brush up on Frontend related topics. Before diving into tests
+These resources are the ideal to brush up on Frontend related topics. Before diving into practice questions it's best to review or learn Frontend specific material.
 
 #### JavaScript
 <a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS</a>  
@@ -36,8 +35,9 @@ These resources are the ideal to brush up on Frontend related topics. Before div
 
 <a href="http://www.thatjsdude.com/interview/">That JS Dude</a> 
 
-#### Questions for other developers
+#### Questions from other developers
 <a href="https://github.com/rishighan/js.ercises">You Don't Know JS</a>  
+
 <a href="https://github.com/utatti/Front-end-Developer-Interview-Questions-And-Answers/tree/master/answers
 ">You Don't Know JS</a>  
 
@@ -45,6 +45,7 @@ These resources are the ideal to brush up on Frontend related topics. Before div
 <a href="http://davidshariff.com/quiz/">David Shariff quiz</a>  
 
 <a href="https://triplebyte.com/users/start">Triplebyte interview</a>  
+
 *TripleByte* online quiz should only be done if you are serious about applying to a company they partner with. Their Frontend interview process if _real_ and can lead to a potential job offer.
 
 #### Glassdoor Questions
