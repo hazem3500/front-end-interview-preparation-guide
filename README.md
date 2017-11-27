@@ -43,6 +43,7 @@ These resources are the ideal to brush up on Frontend related topics. Before div
 
 #### Frontend Quizzes
 <a href="http://davidshariff.com/quiz/">David Shariff quiz</a>  
+The Front End Web Development Quiz from David Shariff is more fun than realistic. A lot of the questions are specific nuggets of information that are generally not asked in real interviews. Go through this one and have some fun, but don't be too worried about your score.
 
 <a href="https://triplebyte.com/users/start">Triplebyte interview</a>  
 
