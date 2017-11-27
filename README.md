@@ -1,6 +1,9 @@
-# Frontend job interview preparation guide
+<img width="100%" src="https://raw.githubusercontent.com/Jobeir/front-end-interview-preparation-guide/master/images/github-repo-hero.png" alt="The Frontend job interview preparation guide"/>
+<br/>
+<br/>
+<br/>
+# The Frontend job interview preparation guide
 This guide will help prepare for your Frontend interviews.
-
 
 ## Steps  
 
