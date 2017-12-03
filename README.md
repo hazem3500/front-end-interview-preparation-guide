@@ -24,7 +24,6 @@ learn the material and practice.
 
 <br />
 <br />
-<br />
 
 # Learn
 
@@ -72,7 +71,6 @@ developers approach to programming._
 
 ### [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
 
-<br />
 <br />
 <br />
 
