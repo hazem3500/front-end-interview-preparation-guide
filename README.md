@@ -21,10 +21,10 @@ You Don't Know JS is arguablly the single best resource for learning JavaScript 
 
 #### [Eloquent JavaScript](http://eloquentjavascript.net/)
 
-#### [🎥 Functional Programming in JavaScript video series](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-#### [🎥 Understanding the Event Loop video](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+#### [Functional Programming in JavaScript video series 🎥](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+#### [Understanding the Event Loop video 🎥](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
-#### [🎥 What Makes Javascript Weird and awesome video series](https://www.youtube.com/watch?v=JEq7Ehw-qk8)
+#### [What Makes Javascript Weird and awesome video series 🎥](https://www.youtube.com/watch?v=JEq7Ehw-qk8)
 
 #### [JavaScript Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 Even though this book is higher level than the previous two, it's worth reading. After reviewing the previous low level books applying that to design patterns should bring everything together.
