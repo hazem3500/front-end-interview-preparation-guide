@@ -3,6 +3,10 @@
 
 The goal of this guide is to help you prepare and practice for your next interview. We have curated this list of resources to keep it manageable and as impactful as possible. The learning resources are mostly focused around JavaScript, but the practice questions cover the entire Frontend spectrum.
 
+The guide is targeted specifically to Frontend roles in the industry. There are resources about JavaScript, CSS, HTML, and general Frontend knowledge. We've also included introductory Data Structures and Algorithm questions. Not all companies interview Frontend developers the same way -- that's why we also created [How Companies Hire](https://github.com/Jobeir/how-companies-hire)to give you an insight into how to prepare for the specific company you're applying for.
+
+When it comes to preparing for interviews there's no real secret. You have to learn the material and practice.
+
 ## 📕 Two simple steps
 - [1. Learn](#learn)
 - [2. Practice](#practice)
@@ -13,9 +17,14 @@ These resources are the ideal to brush up on Frontend related topics. Before div
 ### JavaScript
 
 #### [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-You Don't Know JS is arguablly the single best resource for really learning JavaScript and how it works under the hood. Of all the resources here we recommemnd .
+You Don't Know JS is arguablly the single best resource for learning JavaScript and how it works under the hood.
 
 #### [Eloquent JavaScript](http://eloquentjavascript.net/)
+
+#### [🎥 Functional Programming in JavaScript video series](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+#### [🎥 Understanding the Event Loop video](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+#### [🎥 What Makes Javascript Weird and awesome video series](https://www.youtube.com/watch?v=JEq7Ehw-qk8)
 
 #### [JavaScript Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 Even though this book is higher level than the previous two, it's worth reading. After reviewing the previous low level books applying that to design patterns should bring everything together.
@@ -32,11 +41,14 @@ Even though this book is higher level than the previous two, it's worth reading.
 
 If you're already very familiar with data structures it's worth skipping this. *Depending on the type of Frontend job you're looking for Itsy Bitsy Data Structures may not be completely relevant -- although, it will strengthen any developers approach to programming.*
 
+### CSS
+
+### [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
+
 # Practice
 This is where it all comes together. Go through as many practice problems as you can. There's no secret to it other than time, effort, and repitition. If you don't know an answer spend extra time understanding it.
 
 ### Practice questions 🔑
-
 
 #### [Frontend Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 and <a href="https://github.com/utatti/Front-end-Developer-Interview-Questions-And-Answers/tree/master/answers">answers</a>  
