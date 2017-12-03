@@ -26,8 +26,6 @@ learn the material and practice.
 <br />
 <br />
 
-<img width="250px" src="https://raw.githubusercontent.com/Jobeir/front-end-interview-preparation-guide/master/images/learn.png" alt="Step 1. Learn"/>
-
 # Learn
 
 These resources are the ideal to brush up on Frontend related topics. Before
@@ -77,8 +75,6 @@ developers approach to programming._
 <br />
 <br />
 <br />
-
-<img width="100%" src="https://raw.githubusercontent.com/Jobeir/front-end-interview-preparation-guide/master/images/practice.png" alt="Step 2. Practice"/>
 
 # Practice
 
