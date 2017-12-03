@@ -3,6 +3,7 @@
 
 The goal of this guide is to help you prepare and practice for your next interview. We have curated this list of resources to keep it manageable and as impactful as possible. The learning resources are mostly focused around JavaScript, but the practice questions cover the entire Frontend spectrum.
 
+## 📕 Two simple steps
 - [1. Learn](#learn)
 - [2. Practice](#practice)
 
@@ -10,18 +11,20 @@ The goal of this guide is to help you prepare and practice for your next intervi
 These resources are the ideal to brush up on Frontend related topics. Before diving into practice questions it's best to review or learn Frontend specific material.
 
 ### JavaScript
-<a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS</a>  
+
+#### [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 You Don't Know JS is arguablly the single best resource for really learning JavaScript and how it works under the hood. Of all the resources here we recommemnd .
 
-<a href="http://eloquentjavascript.net/">Eloquent JavaScript</a>  
+#### [Eloquent JavaScript](http://eloquentjavascript.net/)
 
-<a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/">JavaScript Design patterns</a>  
+#### [JavaScript Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 Even though this book is higher level than the previous two, it's worth reading. After reviewing the previous low level books applying that to design patterns should bring everything together.
 
 ### JavaScript (ES6 focused)
-<a href="https://www.nczonline.net/blog/tag/ecmascript-6/">Ecmascript 6</a>  
 
-<a href="https://github.com/ericdouglas/ES6-Learning">Learn Ecamscript 6 interactively</a>  
+#### [Ecmascript 6](https://www.nczonline.net/blog/tag/ecmascript-6/)
+
+#### [Learn Ecamscript 6 interactively](https://github.com/ericdouglas/ES6-Learning)
 
 ### Data Strcutrues
 <a href="https://github.com/thejameskyle/itsy-bitsy-data-structures">Itsy Bitsy Data Structures</a>  
