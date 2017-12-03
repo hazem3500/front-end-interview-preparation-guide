@@ -27,20 +27,25 @@ Even though this book is higher level than the previous two, it's worth reading.
 #### [Learn Ecamscript 6 interactively](https://github.com/ericdouglas/ES6-Learning)
 
 ### Data Strcutrues
-<a href="https://github.com/thejameskyle/itsy-bitsy-data-structures">Itsy Bitsy Data Structures</a>  
+
+#### [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures)  
+
 If you're already very familiar with data structures it's worth skipping this. *Depending on the type of Frontend job you're looking for Itsy Bitsy Data Structures may not be completely relevant -- although, it will strengthen any developers approach to programming.*
 
 # Practice
 This is where it all comes together. Go through as many practice problems as you can. There's no secret to it other than time, effort, and repitition. If you don't know an answer spend extra time understanding it.
 
 ### Practice questions 🔑
-<a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">Frontend Job Interview Questions</a> and <a href="https://github.com/utatti/Front-end-Developer-Interview-Questions-And-Answers/tree/master/answers">answers</a>  
 
-<a href="https://github.com/khan4019/front-end-Interview-Questions">Frontend Job Interview Questions, including algorithms</a> 
 
-<a href="https://www.toptal.com/javascript/interview-questions">Toptal JavaScript interview questions</a>  
+#### [Frontend Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+and <a href="https://github.com/utatti/Front-end-Developer-Interview-Questions-And-Answers/tree/master/answers">answers</a>  
 
-<a href="http://www.thatjsdude.com/interview/">That JS Dude</a> 
+#### [That JS Dude](http://www.thatjsdude.com/interview/)
+
+#### [Frontend Job Interview Questions, including algorithms](https://github.com/khan4019/front-end-Interview-Questions)
+
+#### [Toptal JavaScript interview questions](https://www.toptal.com/javascript/interview-questions)
 
 ### Frontend Quizzes
 <a href="http://davidshariff.com/quiz/">David Shariff quiz</a>  
@@ -53,9 +58,13 @@ The Front End Web Development Quiz from David Shariff is more fun than realistic
 ### Glassdoor Questions
 These questions are meant to reflect real interview questions you would get from interviewing at Facebook or Airbnb. Try your best to solve the questions without looking up answers. Break the problem down into small pieces and start solving from there.
 
-<a href="https://www.glassdoor.ca/Interview/Facebook-Front-End-Engineer-Interview-Questions-EI_IE40772.0,8_KO9,27.htm">Facebook Glassdoor Frontend Interivew questions</a>  
+#### [Facebook Glassdoor Frontend Interivew questions](https://www.glassdoor.ca/Interview/Facebook-Front-End-Engineer-Interview-Questions-EI_IE40772.0,8_KO9,27.htm)
 
-<a href="https://www.glassdoor.ca/Interview/Airbnb-Front-End-Engineer-Interview-Questions-EI_IE391850.0,6_KO7,25.htm">Airbnb Glassdoor Frontend Interivew questions</a>  
+#### [Airbnb Glassdoor Frontend Interivew questions](https://www.glassdoor.ca/Interview/Airbnb-Front-End-Engineer-Interview-Questions-EI_IE391850.0,6_KO7,25.htm)
+
+<br />
+<hr/>
+<br />
 
 ## Jobeir
 This is a curated list of resources by the team at Jobeir.
