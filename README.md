@@ -2,15 +2,15 @@
 <br/>
 
 The goal of this guide is to help you prepare and practice for your next
-interview. We have curated this list of resources to keep it manageable and as
+Frontend job interview. We have curated this list of resources to keep it as
 impactful as possible. The learning resources are mostly focused around
 JavaScript, but the practice questions cover the entire Frontend spectrum.
 
-The guide is targeted specifically to Frontend roles in the industry. There are
+This guide is targeted specifically to Frontend roles in the industry. There are
 resources about JavaScript, CSS, HTML, and general Frontend knowledge. We've
 also included introductory Data Structures and Algorithm questions. Not all
 companies interview Frontend developers the same way -- that's why we also
-created [How Companies Hire](https://github.com/Jobeir/how-companies-hire)to
+created [How Companies Hire](https://github.com/Jobeir/how-companies-hire) to
 give you an insight into how to prepare for the specific company you're applying
 for.
 
