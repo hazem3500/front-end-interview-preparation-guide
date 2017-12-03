@@ -22,9 +22,17 @@ learn the material and practice.
 * [1. Learn](#learn)
 * [2. Practice](#practice)
 
+<br />
+<br />
+<br />
+
 <img width="250px" src="https://raw.githubusercontent.com/Jobeir/front-end-interview-preparation-guide/master/images/learn.png" alt="Step 1. Learn"/>
+
 # Learn
-These resources are the ideal to brush up on Frontend related topics. Before diving into practice questions it's best to review or learn Frontend specific material.
+
+These resources are the ideal to brush up on Frontend related topics. Before
+diving into practice questions it's best to review or learn Frontend specific
+material.
 
 ### JavaScript
 
@@ -66,9 +74,17 @@ developers approach to programming._
 
 ### [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
 
-<img width="250px" src="https://raw.githubusercontent.com/Jobeir/front-end-interview-preparation-guide/master/images/practice.png" alt="Step 2. Practice"/>
+<br />
+<br />
+<br />
+
+<img width="100%" src="https://raw.githubusercontent.com/Jobeir/front-end-interview-preparation-guide/master/images/practice.png" alt="Step 2. Practice"/>
+
 # Practice
-This is where it all comes together. Go through as many practice problems as you can. There's no secret to it other than time, effort, and repitition. If you don't know an answer spend extra time understanding it.
+
+This is where it all comes together. Go through as many practice problems as you
+can. There's no secret to it other than time, effort, and repitition. If you
+don't know an answer spend extra time understanding it.
 
 ### Practice questions 🔑
 
