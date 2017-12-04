@@ -118,6 +118,10 @@ from there.
 
 #### [Airbnb Glassdoor Frontend Interivew questions](https://www.glassdoor.ca/Interview/Airbnb-Front-End-Engineer-Interview-Questions-EI_IE391850.0,6_KO7,25.htm)
 
+### Paid sources
+
+<a href="https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/">The Coding Interview Bootcamp: Algorithms + Data Structures</a>
+
 <br />
 <hr/>
 <br />
